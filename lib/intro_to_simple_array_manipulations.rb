@@ -23,5 +23,5 @@ end
 def using_delete_at(famous_robots, integer)
   famous_robots = ["the dog from doctor who", "R2D2", "Ultron"]
   integer = 2
-  deleted_robot = using_delete_at(famous_robots, 2)
+  deleted_robot = using_delete_at(famous_robots, integer)
 end
